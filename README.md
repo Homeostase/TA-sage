@@ -1,1 +1,1 @@
-# TA-sage
+# Sage Add-on for Splunk
